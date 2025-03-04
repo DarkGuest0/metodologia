@@ -1,0 +1,30 @@
+{
+  "name": "agile-website",
+  "version": "1.0.0",
+  "description": "A friendly website about agile methodologies with animated information cards.",
+  "main": "src/js/scripts.js",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build step not defined yet.'"
+  },
+  "keywords": [
+    "agile",
+    "methodologies",
+    "website",
+    "animation"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  },
+  "devDependencies": {},
+  "homepage": "https://github.com/yourusername/agile-website",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/agile-website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/agile-website/issues"
+  }
+}
